@@ -1,0 +1,14 @@
+{
+  "spider": "https://github.com/shjwanghw/tvbox-sourse/blob/master/jar/custom_spider.jar",
+  "sites": [
+    {
+      "key": "one",
+      "name": "One",
+      "type": 3,
+      "api": "csp_Csp",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://github.com/shjwanghw/tvbox-sourse/blob/master/jsm.json"
+    }
+]
+}
